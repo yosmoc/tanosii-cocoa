@@ -1,0 +1,60 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeExecutable = 92C54FCB0FFACECC00765DA4 /* RSS_Reader */;
+		activeTarget = 8D1107260486CEB800E47090 /* RSS_Reader */;
+		codeSenseManager = 92C54FD60FFACEEC00765DA4 /* Code sense */;
+		executables = (
+			92C54FCB0FFACECC00765DA4 /* RSS_Reader */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 268095180;
+			PBXWorkspaceStateSaveDate = 268095180;
+		};
+		sourceControlManager = 92C54FD50FFACEEC00765DA4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* RSS_Reader */ = {
+		activeExec = 0;
+		executables = (
+			92C54FCB0FFACECC00765DA4 /* RSS_Reader */,
+		);
+	};
+	92C54FCB0FFACECC00765DA4 /* RSS_Reader */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RSS_Reader;
+		sourceDirectories = (
+		);
+	};
+	92C54FD50FFACEEC00765DA4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	92C54FD60FFACEEC00765DA4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
